@@ -1,4 +1,4 @@
-# Brand-building-and-Customer-study
+# Brand building and Customer study
 This project include Linear and poly regression model implementation using R-programming. The aim of this project is to advice brand about the customer's prefernece for a product using the response of customer on social media. We have also implemented Transformation techniques to obtain an acceptable R-square value. 
 
 Our data analysis study is focused on finding the relationships between online publications on social
